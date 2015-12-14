@@ -732,11 +732,6 @@
         <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
-    <option name="HAML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
