@@ -2,10 +2,10 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="front-end-controllers" type="PLAIN_TEXT" />
+      <mapping pattern="un-scheme-helps-hotels-go-green" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitigonre" type="PLAIN_TEXT" />
-      <mapping pattern="un-scheme-helps-hotels-go-green" type="PLAIN_TEXT" />
+      <mapping pattern="front-end-controllers" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
