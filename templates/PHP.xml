@@ -1,8 +1,0 @@
-<templateSet group="PHP">
-  <template name="elocreate" value="&#9;/**&#10;&#9; * Run the migrations.&#10;&#9; *&#10;&#9; * @return void&#10;&#9; */&#10;&#9;public function up()&#10;&#9;{&#10;&#9;&#9;Schema::create('$NAME$',function(Blueprint $table){&#10;&#9;&#9;    $table-&gt;increments('id');&#10;&#9;&#9;    $END$&#10;            $table-&gt;timestamps();&#10;&#9;&#9;});&#10;&#9;}&#10;&#10;&#9;/**&#10;&#9; * Reverse the migrations.&#10;&#9; *&#10;&#9; * @return void&#10;&#9; */&#10;&#9;public function down()&#10;&#9;{&#10;&#9;&#9;Schema::drop('$NAME$');&#10;&#9;}" description="eloquent migration for table create" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-</templateSet>
