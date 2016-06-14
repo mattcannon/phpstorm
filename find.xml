@@ -3,7 +3,7 @@
     <option name="customScope" value="Open Files" />
     <option name="defaultScopeName" value="Open Files" />
     <option name="SEARCH_SCOPE" value="Open Files" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -13,7 +13,6 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.jade</mask>
-      <mask>*.blade.php</mask>
       <mask>*.routes.php</mask>
       <mask>&amp;.js</mask>
       <mask>*.html</mask>
@@ -21,6 +20,7 @@
       <mask>*.scss</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
