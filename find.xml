@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -20,10 +20,10 @@
       <mask>.blade.php</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
-      <mask>*.blade.php</mask>
       <mask>*</mask>
       <mask>*.html</mask>
       <mask>*.scss</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
