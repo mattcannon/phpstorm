@@ -931,4 +931,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="d5170a56-f91d-487a-85a0-95efccd42106" load_method="CUSTOM_LOADER" configuration_file_path="/home/vagrant/Code/1stassociated/1stassociated/new/phpunit.xml" custom_loader_path="/home/vagrant/Code/1stassociated/1stassociated/new/vendor/autoload.php" phpunit_phar_path="/home/vagrant/Code/1stassociated/1stassociated/new/vendor/bin/phpunit" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
 </application>
