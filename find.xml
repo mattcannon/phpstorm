@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project '1stassociated'" />
-    <option name="defaultScopeName" value="Project '1stassociated'" />
+    <option name="customScope" value="Project 'bsna'" />
+    <option name="defaultScopeName" value="Project 'bsna'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project '1stassociated'" />
+    <option name="SEARCH_SCOPE" value="Project 'bsna'" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
