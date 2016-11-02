@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'bsna'" />
-    <option name="defaultScopeName" value="Project 'bsna'" />
-    <option name="SEARCH_SCOPE" value="Project 'bsna'" />
+    <option name="customScope" value="PHPFiles" />
+    <option name="defaultScopeName" value="PHPFiles" />
+    <option name="SEARCH_SCOPE" value="PHPFiles" />
     <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
