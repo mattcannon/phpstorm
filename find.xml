@@ -1,29 +1,26 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
-    <option name="FILE_MASK" value="*" />
+    <option name="customScope" value="PHPFiles" />
+    <option name="defaultScopeName" value="PHPFiles" />
+    <option name="SEARCH_SCOPE" value="PHPFiles" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.jade</mask>
       <mask>*.routes.php</mask>
       <mask>&amp;.js</mask>
-      <mask>*.html</mask>
       <mask>.blade.php</mask>
-      <mask>*.scss</mask>
       <mask>*.js</mask>
-      <mask>*.php</mask>
-      <mask>*.blade.php</mask>
       <mask>*</mask>
+      <mask>*.scss</mask>
+      <mask>*.blade.php</mask>
+      <mask>*.html</mask>
+      <mask>*.php</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
