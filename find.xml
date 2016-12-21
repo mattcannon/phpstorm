@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="PHPFiles" />
+    <option name="FILE_MASK" value="*.vue" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -23,6 +24,7 @@
       <mask>*.html</mask>
       <mask>*.php</mask>
       <mask>*.css</mask>
+      <mask>*.vue</mask>
     </recentFileMasks>
   </component>
 </application>
