@@ -2,8 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="PHPFiles" />
     <option name="defaultScopeName" value="PHPFiles" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="PHPFiles" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -21,8 +22,8 @@
       <mask>*.blade.php</mask>
       <mask>*.html</mask>
       <mask>*.php</mask>
-      <mask>*.css</mask>
       <mask>*.vue</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
