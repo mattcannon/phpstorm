@@ -2,9 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="PHPFiles" />
     <option name="defaultScopeName" value="PHPFiles" />
-    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="PHPFiles" />
-    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
