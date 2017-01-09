@@ -3,7 +3,7 @@
     <option name="customScope" value="PHPFiles" />
     <option name="defaultScopeName" value="PHPFiles" />
     <option name="SEARCH_SCOPE" value="PHPFiles" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -19,10 +19,10 @@
       <mask>*</mask>
       <mask>*.scss</mask>
       <mask>*.blade.php</mask>
-      <mask>*.php</mask>
       <mask>*.vue</mask>
       <mask>*.css</mask>
       <mask>*.html</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
