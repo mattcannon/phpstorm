@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*js" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -24,11 +24,7 @@
       <mask>*.blade.php</mask>
       <mask>*.vue</mask>
       <mask>*.css</mask>
-      <mask>*.php</mask>
       <mask>*.html</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*php</mask>
@@ -36,9 +32,14 @@
       <mask>*scs</mask>
       <mask>*sc</mask>
       <mask>*s</mask>
-      <mask>*</mask>
       <mask>*j</mask>
       <mask>*js</mask>
+      <mask>&amp;</mask>
+      <mask>*</mask>
+      <mask>*.php</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
