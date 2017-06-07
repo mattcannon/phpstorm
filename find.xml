@@ -2,8 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Site" />
     <option name="defaultScopeName" value="Site" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Site" />
-    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.jade</mask>
@@ -30,11 +30,11 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
