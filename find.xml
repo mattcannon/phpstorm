@@ -6,12 +6,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Site" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
-      <mask>*.jade</mask>
-      <mask>*.routes.php</mask>
-      <mask>&amp;.js</mask>
-      <mask>.blade.php</mask>
-      <mask>*.blade.php</mask>
       <mask>*.css</mask>
       <mask>*scss</mask>
       <mask>*scs</mask>
@@ -31,12 +27,17 @@
       <mask>*.scss</mask>
       <mask>*.j</mask>
       <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.vu</mask>
       <mask>*.vue</mask>
+      <mask>*.php</mask>
+      <mask>*.bphp</mask>
+      <mask>*.blphp</mask>
+      <mask>*.bladphp</mask>
+      <mask>*.bladephp</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
